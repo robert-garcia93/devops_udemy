@@ -55,6 +55,7 @@ public class BasicApplicationTests {
     InvoiceResposeMapper irspm;
     private static final String PASSWORD = "admin";
     private static final String USER = "admin";
+    private static final String FLAG_USER = true;
 
     public static String asJsonString(final Object obj) {
         try {
